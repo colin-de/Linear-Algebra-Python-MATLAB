@@ -1,1 +1,1 @@
-# linear-algebra-python-matlab
+# Linear-Algebra-Python-MATLAB
